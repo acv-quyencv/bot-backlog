@@ -1,2 +1,0 @@
-# bot-backlog
-Auto Backlog
